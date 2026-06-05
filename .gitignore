@@ -1,0 +1,20 @@
+# Unrelated project living in this folder — not part of gum-gum
+richards-motorcars/
+enrich_specs.py
+scrape_inventory.py
+
+# Local tooling / editor
+.claude/
+
+# Copyrighted audio (One Piece OST) — not shipped
+*.mp3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
